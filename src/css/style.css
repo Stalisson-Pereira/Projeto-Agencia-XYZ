@@ -1,4 +1,4 @@
-html {
+ehtml {
 font-size: 62.5%;
 }
 
@@ -45,7 +45,7 @@ body {
 .hero {
     grid-area: hero;
     height: 89vh;
-    background: url(../images/fundo.jpg) center center no-repeat;
+    background: url(../images/pexels-fundo.jpg) center center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;

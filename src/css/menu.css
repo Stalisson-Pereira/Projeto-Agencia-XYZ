@@ -74,7 +74,7 @@
 
 .header input:checked ~ label .hamburguer::after {
     transform: rotate(90deg);
-    bottom: ;
+    bottom: 0;
 }
 
 @media (max-width: 900px) {
